@@ -4,7 +4,7 @@ Hi 👋 My name is Tyler Callison
 Web Developer
 -------------
 
-I am a Senior majoring in Computer Science at San Diego State University and currently work at CrowdStrike. I have a passion for programming and love the ever-progressing field and being able to create anything I set my mind to.
+I am a Senior majoring in Computer Science at San Diego State University and currently work at CrowdStrike. I have a passion for programming and love the ever-progressing field that allows me to create anything I set my mind to.
 
 * 🌍  I'm based in San Diego, California
 * ✉️  You can contact me at [callisontyler@gmail.com](mailto:callisontyler@gmail.com)
