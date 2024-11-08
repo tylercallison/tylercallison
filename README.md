@@ -1,15 +1,10 @@
 Hi 👋 My name is Tyler Callison
 ===============================
 
-Web Developer
+Software Engineer
 -------------
 
-I am a Senior majoring in Computer Science at San Diego State University and currently work at CrowdStrike. I have a passion for programming and love the ever-progressing field that allows me to create anything I set my mind to.
-
-* 🌍  I'm based in San Diego, California
-* ✉️  You can contact me at [callisontyler@gmail.com](mailto:callisontyler@gmail.com)
-* 🚀  I'm currently working on [GreekSuite](http://greek-suite.com)
-* 🤝  I'm open to collaborating on websites and mobile applications
+I am a Software Engineer at CrowdStrike. I have a passion for programming and love the ever-progressing field that allows me to create anything I set my mind to.
 
 ### Skills
 
@@ -37,11 +32,3 @@ I am a Senior majoring in Computer Science at San Diego State University and cur
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/tylercallison" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tyler-callison" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tylercallison"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tylercallison&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/tylercallison"><img src="https://activity-graph.herokuapp.com/graph?username=tylercallison&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
